@@ -2,7 +2,7 @@ let spacing = 35;
 let numShapes = 32;
 let baseAngleDeg = -15;
 let baseExpoK = 3.6;
-let blendName = "DARKEST";
+let blendName = "MULTIPLY";
 
 let layers = [];
 let ui = {};
